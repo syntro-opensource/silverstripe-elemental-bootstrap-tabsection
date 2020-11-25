@@ -1,5 +1,5 @@
 {
-    "name": "syntro/silverstripe-elemental-bootstrap-tabsection",
+    "name": "syntro/silverstripe-elemental-tabsection",
     "description": "A bootsttrap based tab section",
     "type": "silverstripe-vendormodule",
     "keywords": [

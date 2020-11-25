@@ -1,0 +1,13 @@
+de:
+  Syntro\SilverStripeElementalBootstrapTabSection\Elements\TabSection:
+    BlockType: Tab Abschnitt
+    CONTENT: Inhalt
+    SUMMARY:
+      one: 'Ein Panel'
+      other: '{count} Panels'
+  Syntro\SilverStripeElementalBootstrapTabSection\Model\TabPanel:
+    CALLTOACTIONLINK: Call to action Link
+    CONTENT: Inhalt
+    IMAGE: Bild
+    TITLE: Titel
+    SUMMARY: Zusammenfassung

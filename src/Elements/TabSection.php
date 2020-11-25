@@ -11,7 +11,7 @@ use SilverStripe\Forms\GridField\GridFieldAddExistingAutocompleter;
 use SilverStripe\Forms\GridField\GridFieldDeleteAction;
 use Symbiote\GridFieldExtensions\GridFieldOrderableRows;
 use DNADesign\Elemental\Models\BaseElement;
-use Syntro\SilverStripeElementalBootstrapTabSection\Model\TabPanel;
+use Syntro\ElementalTabSection\Model\TabPanel;
 
 /**
  *  Bootstrap based Tab section

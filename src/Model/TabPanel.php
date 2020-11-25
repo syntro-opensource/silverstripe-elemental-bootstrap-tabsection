@@ -10,7 +10,7 @@ use SilverStripe\AssetAdmin\Forms\UploadField;
 use gorriecoe\Link\Models\Link;
 use gorriecoe\LinkField\LinkField;
 use Syntro\SilverStripeElementalBaseitems\Model\BaseItem;
-use Syntro\SilverStripeElementalBootstrapTabSection\Elements\TabSection;
+use Syntro\ElementalTabSection\Elements\TabSection;
 
 /**
  * TabPanel
